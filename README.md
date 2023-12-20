@@ -1,2 +1,2 @@
 # Piano_js-ManualDoDev
-Piano in javascript bt Manual do Dev
+Piano in javascript by Manual do Dev
